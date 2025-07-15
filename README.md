@@ -1,8 +1,7 @@
 ## Environment Files: Machine Learning, Artifical Intelligence, & Large Language Models
 
 * `ml` subfolder for the courses **Introduction to Machine Learning** _and_ **Machine Learning with Scikit-Learn**
-* `ai` subfolder for the courses **MLP, Time Series, & Neural Networks** _and_ **Neural Networks & Similar Models**
-* `llm` subfolder for the courses **Large Language Models**
+* `ai` subfolder for the courses **MLP, Time Series, & Neural Networks**, **Neural Networks & Similar Models**, _and_ **Large Language Models**
 
 ### Conda Environment
 
