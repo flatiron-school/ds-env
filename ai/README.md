@@ -38,5 +38,5 @@ Due to the dynamic nature of updates to not only PCs and Macs but also to `conda
 
 #### Regarding Macintosh Computers with the Intel chip
 
-As of `PyTorch` 2.3.0, official pre-built binaries for macOSX x86_64 (Intel) has been deprecated, which means that using PyTorch and related libraries with an Intel chip is going to become more and more difficult to run correctly. As such, while the current YAML file for Macs with Intel chips works (with warnings), it will not be updated in the future due to `PyTorch`'s deprecation. (The last Intel-based Mac was discontinued in June 2023.)
+As of `PyTorch` 2.3.0, official pre-built binaries for macOSX x86_64 (Intel) has been deprecated, which means that using PyTorch and related libraries with an Intel chip is going to become more and more difficult to run correctly. As such, while the current YAML file for Macs with Intel chips works (with warnings), it will not be updated in the future due to `PyTorch`'s deprecation. (The last Intel-based Mac was discontinued in June 2023.) As such, the Mac Intel YAML file will be removed (likely by the end of 2025).
 
