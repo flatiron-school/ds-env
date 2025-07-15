@@ -1,10 +1,11 @@
-# Environment Files for Machine Leardning, Artifical Intelligence, and Large Language Models
+# Environment Files
+## for Machine Leardning, Artifical Intelligence, and Large Language Models
 
 * ml subfolder for Foundations 2 (Courses 7 & 8)
 * ai subfolder for Foundations 2 (Courses 9 & 10)
 * llm subfolder (Course 12)
 
-## Environment Creation from a YAML file
+### Environment Creation from a YAML file
 
 Depending on the machine that you are working on, run this code:
 
