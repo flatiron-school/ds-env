@@ -22,8 +22,6 @@ dependencies:
       - tensorflow==2.10.0
       - tensorflow_text==2.10.0
       - tensorflow_hub
-      - tensorflow-macos
-      - tensorflow-metal
       - datasets
       - sentence-transformers
       - accelerate
