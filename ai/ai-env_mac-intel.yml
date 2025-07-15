@@ -1,0 +1,45 @@
+name: ai-env-test
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.9
+  - numpy==1.26.4
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - jupyter
+  - nltk
+  - xgboost
+  - lightgbm
+  - python-graphviz
+  - transformers==4.49.0
+  - pip
+  - pip:
+      - tensorflow==2.10.0
+      - tensorflow_text==2.10.0
+      - tensorflow_hub
+      - tensorflow-macos
+      - tensorflow-metal
+      - datasets
+      - sentence-transformers
+      - accelerate
+      - torch==2.2.2
+      - spacy
+      - wordcloud
+      - shap
+      - lime
+      - plotly
+      - openpyxl
+      - flask
+      - mlflow
+      - pmdarima
+      - yfinance
+      - rouge-score
+      
+# conda env create -f ai-env_mac-intel.yml
+# python -m ipykernel install --user --name ai-env --display-name "Python (ai-env)"
+      
