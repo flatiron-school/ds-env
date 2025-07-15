@@ -1,4 +1,4 @@
-name: ai-env-test
+name: ai-env
 channels:
   - defaults
   - conda-forge
