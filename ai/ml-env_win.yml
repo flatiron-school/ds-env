@@ -30,4 +30,5 @@ dependencies:
     - yfinance
     - rouge-score
 
-
+# conda env create -f ai-env_win.yml
+# python -m ipykernel install --user --name ai-env --display-name "Python (ai-env)"
