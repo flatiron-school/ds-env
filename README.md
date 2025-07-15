@@ -1,4 +1,4 @@
-## Environment Files: Machine Leardning, Artifical Intelligence, & Large Language Models
+## Environment Files: Machine Learning, Artifical Intelligence, & Large Language Models
 
 * ml subfolder for Foundations 2 (Courses 7 & 8)
 * ai subfolder for Foundations 2 (Courses 9 & 10)
