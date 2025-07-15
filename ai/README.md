@@ -32,7 +32,6 @@ in your terminal/prompt after activating `conda`.
 
 *Make sure to replace `[suffix]` with the appropriate ending for the file depending on whether you have a PC, `win`, Mac with M silicon chip, `mac-silicon`, or Mac with Intel chip, `mac-intel`.*
 
-
 ### Words of caution
 
 Due to the dynamic nature of updates to not only PCs and Macs but also to `conda` and the packages/libraries themselves, the .yml files (for Mac Silicon and PC Windows) will inevitably need to be updated.
