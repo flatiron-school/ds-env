@@ -2,7 +2,7 @@
 
 Depending on the machine that you are working on, run this code:
 
-`conda env create -f m-env_[suffix].yml`
+`conda env create -f ml-env_[suffix].yml`
 
 in your terminal/prompt after activating `conda`.
 
