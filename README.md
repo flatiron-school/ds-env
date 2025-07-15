@@ -44,4 +44,4 @@ in your terminal/prompt after activating `conda`.
 
 ### Words of caution
 
-Due to the dynamic nature of updates to not only PCs and Macs but also to `conda` and the packages/libraries themselves, the .yml files will inevitably need to be updated, or in the case of Mac with Intel no longer updated since it is in the process of being deprecated.
+Due to the dynamic nature of updates to not only PCs and Macs but also to `conda` and the packages/libraries themselves, the .yml files will inevitably need to be updated.
