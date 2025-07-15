@@ -41,3 +41,7 @@ in your terminal/prompt after activating `conda`.
 *  When running the above environment creation code, make sure you are in the same location as the downloaded YAML file
 
 *Make sure to replace `[NAME]` with the appropriate file depending on whether you have a PC (Windows), Mac with M silicon chip, or Mac with Intel chip*.
+
+### Words of caution
+
+Due to the dynamic nature of updates to not only PCs and Macs but also to `conda` and the packages/libraries themselves, the .yml files will inevitably need to be updated.
